@@ -41,3 +41,6 @@ This is one skill pulled out of a larger set. If it's useful, the other nine
 gaps ranked by risk, weekly status reports, cold outreach that won't fake
 personalization, and more) are in the [Claude Code Automation Pack](https://ryugugu.gumroad.com/l/kxjbay)
 — $29, but this one's free and complete on its own regardless.
+
+If it saved you time and you'd rather just say thanks than buy the pack,
+there's a Sponsor button on this repo.
